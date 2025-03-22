@@ -1,0 +1,69 @@
+
+
+html{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(205, 202, 202);
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid red; */
+    width: 800px;
+    height: 300px;
+    margin: auto;
+    /* margin-top: 10%; */
+    flex-direction: column;
+
+
+
+}
+
+
+#clock{
+    border: 1px solid black;
+    height: 60px;
+    width: 400px;
+    margin: 15px;
+    background-color: orange;
+    border-radius: 3px;
+    text-align: center;
+    font-size: 50px;
+}
+
+#text{
+    display: block;
+    font-size: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
